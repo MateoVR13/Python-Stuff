@@ -6,6 +6,7 @@ Welcome to this Python learning repository! Here you'll find examples, exercises
 
 - [Basics](#basics)
 - [Intermediate](#intermediate)
+- [Functions](#functions)
 - [Exercises](#exercises)
   - [Basic Exercises](#basic-exercises)
   - [Intermediate Exercises](#intermediate-exercises)
