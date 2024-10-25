@@ -54,7 +54,7 @@ Practice what you've learned with our exercise sets:
 
 1. Clone this repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/MateoVR13/Python-Stuff.git
 ```
 
 2. Navigate through the folders based on your level:
